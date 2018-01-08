@@ -1,0 +1,35 @@
+ #bar{
+		  margin-top:15px;
+		  padding-bottom:15px;
+		  height:30px;
+		  width:97%;
+		  background:#FF0000;
+		  border-top:1px solid black;
+		  border-right:1px solid black;
+		  border-bottom:1px solid black;
+          float:right;	
+          border-top-right-radius:5px;
+          border-bottom-right-radius:5px;
+          box-shadow: 5px 5px 5px #888888;		  
+		}
+		#bar1{
+		  margin-top:15px;
+		  padding-bottom:15px;
+		  height:30px;
+		  width:2.7%;
+		  background:#FFFFCC;
+		  border-top:1px solid black;
+		  border-left:1px solid black;
+		  border-bottom:1px solid black;
+           box-shadow: 5px 5px 5px #888888;
+		  border-top-left-radius:5px;
+		  border-bottom-left-radius:5px;
+		}
+		#pbar{
+		  padding-left:10px;
+		  padding-bottom:5px;
+		  padding-top:12px;
+		  font-family: "verdana";
+		  color:#FFFFCC;
+		  float:left;
+		}
